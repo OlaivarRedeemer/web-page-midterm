@@ -1,0 +1,36 @@
+.home-inner{
+  background-image: url(img/bgfinal.png);
+}
+
+.caption {
+  width: 100%;
+  max-width: 100%;
+  top: 38%;
+  left: 11%;
+  position: absolute;
+  text-transform: uppercase;
+  padding-left: 150px;
+  z-index: 1;
+  color: #264653;
+}
+
+.caption h1 {
+  font-size: 55px;
+  font-weight: 700;
+  color: black;
+  letter-spacing: .3rem;
+  text-shadow: 1px 1px 4px #00ffd9;
+}
+
+.caption h4 {
+  letter-spacing: 7.5px;
+  padding-bottom: 10px;
+  text-shadow: 1px 1px 10px black;
+}
+.btn-lg {
+    color: #1ebba3;
+}
+
+
+
+  
